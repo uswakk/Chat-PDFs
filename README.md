@@ -1,12 +1,6 @@
 # Chat-PDFs
 
-Absolutely! Here’s a polished and pretty version of your README with emojis, headings, and clean formatting:
-
----
-
-# 📄💬 Chat with Your Documents
-
-A simple web app that lets you **upload documents and chat with them** — like having a conversation with your PDFs!
+A simple web app that lets you **upload documents and chat with them**
 
 ---
 
